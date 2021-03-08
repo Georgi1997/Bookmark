@@ -85,6 +85,9 @@ p.paragraph {
 /* BUTTONS */
 /* BUTTONS */
 /* burger menu */
+.burger {
+  display: none;
+}
 .burger div {
   width: 24px;
   height: 2px;
@@ -92,7 +95,7 @@ p.paragraph {
   margin: 4px;
   cursor: pointer;
   transition: all 0.5s ease;
-  display: none;
+  display: block;
 }
 
 .triggerAnim .line1 {

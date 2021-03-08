@@ -135,6 +135,9 @@
     position: relative;
     z-index: -1;
   }
+  .burger {
+    display: block;
+  }
   .burger div {
     display: block;
     position: relative;
