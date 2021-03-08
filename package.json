@@ -1,0 +1,14 @@
+{
+  "name": "bookmark-landing-page-master",
+  "version": "1.0.0",
+  "description": "![Design preview for the Bookmark landing page coding challenge](./design/desktop-preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "devserver": "live-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
