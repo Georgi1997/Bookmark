@@ -381,7 +381,7 @@ nav.navbar {
 .faq-active {
   max-height: fit-content !important;
   opacity: 1 !important;
-  transition: all 1s ease !important;
+  /* transition: all 1s ease !important; */
 }
 
 .rotate-btn {
@@ -448,7 +448,7 @@ nav.navbar {
   text-align: left;
   opacity: 0;
   max-height: 0;
-  transition: all 0.5s ease;
+  /* transition: all 0.5s ease; */
 }
 
 .faq__panel p {
