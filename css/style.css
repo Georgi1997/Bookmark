@@ -81,6 +81,16 @@ p.paragraph {
   line-height: 2.8rem;
 }
 
+/* Animation section */
+.section {
+  transition: all 1s ease;
+}
+
+.section-hidden {
+  opacity: 0;
+  transform: translateY(8rem);
+}
+
 /* BUTTONS */
 /* BUTTONS */
 /* BUTTONS */
